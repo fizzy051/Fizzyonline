@@ -68,7 +68,7 @@ const Header: React.FC = () => {
         <Box
           component="img"
           src={logo}
-          alt="GlobalDigitalMarket"
+          alt="FIZZYEND"
           sx={{
             width: {
               xs: 120,
